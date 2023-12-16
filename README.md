@@ -20,7 +20,7 @@ Welcome to my GitHub, where may or not have some nice stuff. I'm a Systems of In
 - Use OpenGL to create the render of the project.
 - Creating a physics engine that works (optional). 
 
-## 📫 Hey hey contract me
+## 📫 Hey hey recruit me
 
 - **LinkedIn:** [caio-b-pinho](https://www.linkedin.com/in/caio-b-pinho/)
 - **Email:** [caiopinho9@gmail.com](mailto:caiopinho9@gmail.com)
