@@ -25,7 +25,7 @@ I was bored and wanted to do something new, so why not recreate something that a
 - Pretending to understand 2d object physics. ~~maybe 3d but I dont know~~ 
 - Utilizing OpenGL for rendering.
 - Creating a physics engine that works.
-- Expand it into a game engine.
+- Expanding it into a game engine.
 
 ## My contact
 
