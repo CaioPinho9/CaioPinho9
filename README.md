@@ -5,7 +5,7 @@ Welcome to my GitHub, which may or not have some nice stuff.
 ## My Journey
 
 - Currently studying Information Systems at [UFSC](https://ufsc.br/). (September 2022 - Present)
-- Supporting development at [Bridge](https://portal.bridge.ufsc.br/). (November 2023 - Present)
+- Fullstack web developer at [Bridge](https://portal.bridge.ufsc.br/). (November 2023 - Present)
 - Previous experience as a Python backend developer at [Veeries](https://www.veeries.com.br/). (March 2023 - November 2023)
 - Maintained legacy code at [Departamento de Língua e Literatura Estrangeiras (DLLE/UFSC)](https://www.proficienciadlle.com/novo/). (September 2022 - March 2023)
 
